@@ -19,15 +19,20 @@ I am a Game Programmer using C#, C++, and Unity. My main interests include gamep
 
 🎓 Education
 
-<a href="https://www.polsl.pl/"><img align="left" src="https://www.polsl.pl/wp-content/uploads/2020/06/logo.svg" width="80" alt="Silesian University of Technology logo"></a>
+<a href="https://www.polsl.pl/"><img align="left" src="https://img.shields.io/badge/Silesian_University_of_Technology-00529B?style=for-the-badge" alt="Silesian University of Technology"></a>
+
 Silesian University of Technology · 2022–2026
+<br>
 B.Eng. in Computer Science
+<br>
 Faculty of Automatic Control, Electronics and Computer Science (AEI)
 
-<br clear="left">
+<br clear="left"> <br>
 
-<a href="https://www.merito.pl/chorzow/"><img align="left" src="https://www.merito.pl/chorzow/sites/merito.pl.chorzow/files/logo.svg" width="80" alt="WSB Merito University logo"></a>
+<a href="https://www.merito.pl/chorzow/"><img align="left" src="https://img.shields.io/badge/WSB_Merito_University-009FE3?style=for-the-badge" alt="WSB Merito University"></a>
+
 WSB Merito University in Chorzów · 2026–Present
+<br>
 Computer Science
 
 <br clear="left">
