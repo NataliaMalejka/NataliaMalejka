@@ -27,7 +27,7 @@ B.Eng. in Computer Science
 <br>
 Faculty of Automatic Control, Electronics and Computer Science (AEI)
 
-<br clear="left"> <br>
+<br clear="left">
 
 <a href="https://www.merito.pl/chorzow/"><img align="left" src="https://img.shields.io/badge/WSB_Merito_University-009FE3?style=for-the-badge" alt="WSB Merito University"></a>
 <br><br>
