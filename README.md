@@ -19,12 +19,14 @@ I am a Game Programmer using C#, C++, and Unity. My main interests include gamep
 
 🎓 Education
 
-<br>
 Silesian University of Technology · 2022–2026
+<br>
 B.Eng. in Computer Science
+<br>
 Faculty of Automatic Control, Electronics and Computer Science (AEI)
 <br>
 
 WSB Merito University in Chorzów · 2026–Present
+<br>
 Computer Science
 <br>
