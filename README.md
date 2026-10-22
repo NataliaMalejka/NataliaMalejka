@@ -55,3 +55,17 @@ Key Features:
 
 Technologies:<br>
 C# · Unity · Procedural Generation · Multi-Octave Noise · Hexagonal Grid
+
+
+<br>
+<a href="https://github.com/NataliaMalejka/Felicette"><strong>Félicette Space Puzzle</strong></a>
+
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NataliaMalejka/Felicette/main/gameplay_preview.png" alt="Felicette - Gameplay Preview" width="800">
+</p>
+A puzzle game developed for the ZTGK 2025 competition in the Mobile Games category. The game is available for Windows and Android.
+
+Inspired by the story of Félicette, the first cat to travel into space, the game puts players in the role of helping a cat astronaut escape a spaceship. By solving puzzles and arranging their elements, players must find a way to reach the escape pod and ensure the cat's safe escape.
+
+The project combines puzzle-solving gameplay with a space-themed setting inspired by a real historical event.
