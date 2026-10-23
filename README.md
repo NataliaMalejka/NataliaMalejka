@@ -1,24 +1,21 @@
-### Hello! 👋
+# Hello! 👋
 
 I am a Game Programmer using C#, C++, and Unity. My main interests include gameplay programming, VR development, and procedural content generation.
 
-<br>
-🎮 Technologies
+## 🎮 Technologies
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" height="30" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <a href="https://isocpp.org/"><img alt="C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 <a href="https://unity.com/"><img alt="Unity" height="30" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"></a>
 <a href="https://www.meta.com/quest/"><img alt="VR" height="30" src="https://img.shields.io/badge/VR-6E40C9?style=for-the-badge&logo=meta&logoColor=white"></a>
-<br>
 
-📫 Contact
-<br>
+## 📫 Contact
+
 <a href="mailto:natalia280803@gmail.com"><img alt="Email" height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/natalia-malejka/"><img alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
 
-🎓 Education
-<br>
+## 🎓 Education
+
 <a href="https://www.polsl.pl/"><img align="left" src="https://img.shields.io/badge/Silesian_University_of_Technology-00529B?style=for-the-badge" alt="Silesian University of Technology"></a>
 <br><br>
 Silesian University of Technology · 2022-2026
@@ -37,10 +34,11 @@ Computer Science
 
 <br clear="left">
 
-🚀 Projects
-<br>
-<a href="https://github.com/NataliaMalejka/Procedurally-generated-map-for-a-strategy-game-in-Unity"><strong>Procedurally Generated Map for a Strategy Game in Unity</strong></a>
-
+## 🚀 Projects
+###  <a href="https://github.com/NataliaMalejka/Procedurally-generated-map-for-a-strategy-game-in-Unity"><strong>Procedurally Generated Map for a Strategy Game in Unity</strong></a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NataliaMalejka/Procedurally-generated-map-for-a-strategy-game-in-Unity/main/Procedurally-generated-map.png" alt="Procedurally Generated Map in Unity" width="800">
+</p>
 A procedural world generation system for a turn-based strategy game inspired by Civilization VI and Humankind.<br>
 The project focuses on generating diverse, replayable hex-based worlds with interconnected terrain, climate, and biome systems.
 
@@ -57,8 +55,8 @@ Technologies:<br>
 C# · Unity · Procedural Generation · Multi-Octave Noise · Hexagonal Grid
 
 
-<br>
-<a href="https://github.com/NataliaMalejka/Felicette"><strong>Félicette Space Puzzle</strong></a>
+
+### <a href="https://github.com/NataliaMalejka/Felicette"><strong>Félicette Space Puzzle</strong></a>
 
 
 <p align="left">
